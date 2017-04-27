@@ -17,4 +17,4 @@ phases:
 artifacts:
   type: zip
   files:
-    - target/emotion-regression-trigger.jar
+    - target/com.emotion.lambda-0.0.1-SNAPSHOT.jar
